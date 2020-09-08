@@ -1,0 +1,14 @@
+{
+  "name": "redispractise",
+  "version": "1.0.0",
+  "description": "for try redis implementation to nodejs",
+  "main": "redispractise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@alperenkabadayi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
