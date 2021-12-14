@@ -2,7 +2,7 @@
 
 Redisin Node.js ile kullanımını pekiştirmek için geliştirilmiş bir proje.  
 
-# Kullanımı
+# Kullanım
 -öncelikle rediste list yapısında key-value değer ataması yapmanız gerekiyor(manuel)  
 => kodu optimize ederek ekleme işlemini otomatize edebilirsiniz. (yorum satırlarırında ekleme işlemi için gereken fonksiyon bulunuyor)  
 -ekleme işlemini yaparken dikkatli olun. özellikle döngü içinde yapmamaya dikkat edin. Ram şişebilir.  
